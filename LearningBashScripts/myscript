@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+echo -e "\nhello script example\n"
+
+#This is comment
+
+#echo "The $0 script got the  argument(s) $@"
+
+for i in $@
+do
+	echo -n "$i "
+
+done
+
+echo
+echo "Total argument number is $#"
