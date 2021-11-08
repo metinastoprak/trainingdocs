@@ -5,5 +5,7 @@ alias graph='git log --all --decorate --oneline --graph'
 
 git merge --no-commit origin/main    // merge from origin/main(repo) to our local main branch 
 
+deneme branchi önce acıldı ve /audio folderı eklendi.
+main branche bu text eklendi.
 -------------------------------------------------------
 
