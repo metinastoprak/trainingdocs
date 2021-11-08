@@ -3,6 +3,7 @@ Useful commands
 
 alias graph='git log --all --decorate --oneline --graph'
 
+git merge --no-commit origin/main    // merge from origin/main(repo) to our local main branch 
 
 -------------------------------------------------------
 
