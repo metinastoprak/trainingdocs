@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-9"
+	BuildStamp="20220205-1724-Experimental"
+	Name="Arge-Atmaca"
+	Generator="ctest-3.22.2"
+	CompilerName="/usr/bin/clang++-9"
+	CompilerVersion="9.0.0"
+	OSName="Linux"
+	Hostname="Arge-Atmaca"
+	OSRelease="5.4.0-97-generic"
+	OSVersion="#110~18.04.1-Ubuntu SMP Mon Jan 17 20:50:31 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7922"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2234.06"
+	>
+	<Testing>
+		<StartDateTime>Feb 05 20:24 +03</StartDateTime>
+		<StartTestTime>1644081887</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 05 20:24 +03</EndDateTime>
+		<EndTestTime>1644081887</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

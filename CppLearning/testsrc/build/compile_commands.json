@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/atmaca/Desktop/MyProjects/CppLearning/testsrc/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/home/atmaca/Desktop/MyProjects/CppLearning/testsrc/src -g -o CMakeFiles/mytest.dir/testsrc.cpp.o -c /home/atmaca/Desktop/MyProjects/CppLearning/testsrc/testsrc.cpp",
+  "file": "/home/atmaca/Desktop/MyProjects/CppLearning/testsrc/testsrc.cpp"
+}
+]

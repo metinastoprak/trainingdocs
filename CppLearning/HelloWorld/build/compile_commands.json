@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/atmaca/Desktop/MyProjects/CppLearning/HelloWorld/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -g -o CMakeFiles/testsrc.dir/main.cpp.o -c /home/atmaca/Desktop/MyProjects/CppLearning/HelloWorld/main.cpp",
+  "file": "/home/atmaca/Desktop/MyProjects/CppLearning/HelloWorld/main.cpp"
+}
+]
